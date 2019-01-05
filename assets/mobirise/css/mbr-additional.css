@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #553982;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #4c3374;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-a .mbr-article {
+  color: #ffffff;
+}
